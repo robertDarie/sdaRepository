@@ -1,4 +1,4 @@
-package orice;
+package Queue;
 
 public class Queues {
 
